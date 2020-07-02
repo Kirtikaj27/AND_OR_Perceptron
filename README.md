@@ -1,4 +1,4 @@
-PERCEPTRONS AS LOGICAL OPERATORS
+OUTPUT FOR AND PERCEPTRON
 ```
 Input 1  Input 2  Linear Combination  Output
        0        0                  -3       0
