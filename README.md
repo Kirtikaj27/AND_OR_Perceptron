@@ -9,8 +9,10 @@ Input 1  Input 2  Linear Combination  Output
        
 OUTPUT FOR OR PERCEPTRON
 
+```
 Input 1  Input 2  Linear Combination  Output
        0        0                  -2       0
        0        1                   3       1
        1        0                   1       1
        1        1                   6       1
+```
